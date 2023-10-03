@@ -63,7 +63,7 @@ const Counselle = () => {
       <div className="bg-gray-500 h-screen">
         <div className="flex items-center justify-between bg-gray-900 h-[80px] w-screen">
         <h1 className="text-3xl text-white cursor-pointer md:text-4xl lg:text-5xl font-semibold p-4">Counselee View</h1>
-          <div className="flex items-center gap-4">
+          <div className="hidden md:flex items-center gap-4">
           <select className='p-2 rounded-md' onChange={handleRoleChange}>
             {
               roles.map((role, index) => (
