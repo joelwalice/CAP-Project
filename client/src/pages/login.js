@@ -70,7 +70,7 @@ export default class Login extends Component {
                 <>
                     <title>Admin Login</title>
                     <div className='min-h-screen flex flex-col justify-center items-center bg-gray-900'>
-                        <div className='w-screen h-screen md:w-[500px] lg:w-[500px] h-[500px] bg-gray-200 rounded-3xl p-4 mx-auto my-auto'>
+                        <div className='w-screen md:w-[500px] lg:w-[500px] h-[500px] bg-gray-200 rounded-3xl p-4 mx-auto my-auto'>
                             <div className={'w-full flex flex-col justify-center'}>
                                 <h1 className='text-4xl md:text-5xl flex items-center justify-center lg:text-5xl font-semibold px-4 lg:mr-4 pt-2'>Admin Login</h1>
                                 <form action="" className='flex flex-col justify-center p-4 pt-6 mt-5 gap-5'>
