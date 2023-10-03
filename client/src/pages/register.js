@@ -84,7 +84,7 @@ export default class Register extends Component {
             <div>
                 <title>User Register</title>
                 <div className='min-h-screen flex flex-col justify-center items-center bg-gray-900'>
-                    <div className='w-screen h-screen md:w-[550px] lg:w-[550px] h-[500px] bg-gray-200 rounded-3xl p-4 mx-auto my-auto'>
+                    <div className='w-screen md:w-[550px] lg:w-[550px] h-[500px] bg-gray-200 rounded-3xl p-4 mx-auto my-auto'>
                         <div className={'w-full flex flex-col justify-center'}>
                             <h1 className='text-4xl md:text-5xl lg:text-5xl flex items-center justify-center font-semibold px-4 lg:mr-3 pt-4'>User Register</h1>
                             <form action="" className='flex flex-col justify-center p-3 gap-5 mt-3 items-center'>
