@@ -29,7 +29,7 @@ export default class Login extends Component {
             return;
         }
     
-        axios.post('https://cap.vercel.app/admin/login', {
+        axios.post('https://cap-two.vercel.app/admin/login', {
             email,
             password,
             role
