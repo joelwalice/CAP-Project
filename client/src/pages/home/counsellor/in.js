@@ -123,7 +123,7 @@ const Counsellor = () => {
         </div>
         <div className='p-4'>
         <div className='w-full bg-blue-500 flex items-center justify-center'>
-            <h1 className='p-2 text-white'>TODAY'S COUNSELLING INFORMATION</h1>
+            <h1 className='p-2 text-white'>TODAY&apos;S COUNSELLING INFORMATION</h1>
         </div>
         </div>
         <div className='p-4 grid sm:grid-cols-4 grid-cols-1 gap-4'>
